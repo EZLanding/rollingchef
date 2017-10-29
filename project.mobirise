@@ -53,7 +53,7 @@
         "main": true,
         "title": "Rolling Chef",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta property=\"og:image\" content=\"http://rollingchef.co.il/assets/images/4.jpg\" />\n\n",
         "footer_custom": "",
         "html_before": ""
       },
