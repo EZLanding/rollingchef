@@ -42,7 +42,7 @@
     "versionPublish": "4.3.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/02.jpg",
     "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": ""
